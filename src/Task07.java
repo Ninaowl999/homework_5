@@ -4,7 +4,7 @@ public class Task07 {
         int number =5;
         for (int i = 31; i >= 0 ; i--) {
             int bit = (number >> i) & 1;
-            System.out.println(bit);
+            System.out.print(bit);
         }
     }
 }
