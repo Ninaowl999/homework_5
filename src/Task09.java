@@ -2,7 +2,6 @@ public class Task09 {
     public static void main(String[] args) {
         System.out.println("Задание №9");
         System.out.println(compute());
-
     }
     public static String compute() {
         int sum = 0;
