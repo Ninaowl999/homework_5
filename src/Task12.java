@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Task12 {
     public static void main(String[] args) {
         System.out.println("Задание №12");
+
         Scanner scanner = new Scanner(System.in);
         System.out.print("x = ");
         double x = scanner.nextDouble();
